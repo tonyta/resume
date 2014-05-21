@@ -3,10 +3,14 @@
  * @author Nat Welch
  */
 
-$fg:     #333333;
-$bg:     #F9F9F9;
+$fg:     #CCC;
+$bg:     #333;
+
 $link:   #4183C4;
 $border: #E0E0E0;
+
+$font-serif:  'Gilda Display', serif;
+$font-sans:  'Open Sans', sans-serif;
 
 * {
   margin: 0;
@@ -17,8 +21,8 @@ body {
   color: $fg;
   line-height: 1.4em;
   background-color: $bg;
-  font-family: serif;
-  font-size: 0.9em;
+  font-family: $font-sans;
+  font-size: 1em;
 }
 
 /**
@@ -40,39 +44,49 @@ body {
 }
 
 #resume {
-  width: 800px;
+  width: 720px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 30px;
   padding: 10px;
 
   h1, h2, h3, h4, h5, h6 {
+    color: white;
     border: 0;
+    font-family: $font-serif;
   }
 
   h1 {
     font-size: 170%;
-    border-top: 4px solid $border;
+    border-top: 2px solid $border;
     padding-top: 0.5em;
     margin-top: 1.5em;
+
+    &:first-child {
+      margin-top: 30px;
+      padding-top: 0.25em;
+      border-top: none;
+      font-size: 300%;
+      font-weight: normal;
+    }
   }
 
-  h1:first-child {
-    margin-top: 30px;
-    padding-top: 0.25em;
-    border-top: none;
-    font-size: 200%;
-  }
 
   h2 {
     font-size: 150%;
-    margin-top: 1.5em;
-    border-top: 4px solid $border;
-    padding-top: 0.5em;
+    margin-top: 1em;
+    border-top: 1px solid $border;
+    padding-top: 1em;
   }
 
   h3 {
     margin-top: 1em;
+    font-weight: normal;
+  }
+
+  h4 {
+    font-style: italic;
+    font-weight: normal;
   }
 
   p {
@@ -81,11 +95,12 @@ body {
   }
 
   ul, ol {
-    margin: 1em 0 1em 2em;
+    margin: 1em 0 1em 8px;
 
     li {
       margin-top: 0.3em;
       margin-bottom: 0.3em;
+      list-style: none;
     }
 
     ul, ol {
@@ -129,4 +144,9 @@ body {
     margin-left: 2em;
     margin-bottom: 1em;
   }
+}
+
+img {
+  width: 20px;
+  height: 20px;
 }

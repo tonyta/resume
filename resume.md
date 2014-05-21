@@ -1,25 +1,22 @@
 # Tony Ta
 
 * <tonyta.tt@gmail.com>
-* <http://github.com/tonyta>
-* <http://linkedin.com/in/tonyta>
+* [github.com/tonyta](http://github.com/tonyta)
+* [LinkedIn](http://linkedin.com/in/tonyta) | [Facebook](http://facebook.com/tonyta) | [Twitter](http://twitter.com/tonyta])
 * 980-226-6230
 
 ## Profile
-Web developer with a background in science and chemistry. I love experimentation and discovery to expand my knowledge. I enjoy teaching and learning from others through mentorship and believe that the sharing of knowledge is our most noble purpose.
+Web developer with a background in science and chemistry. I love expanding my knowledge through experimentation and discovery. I enjoy teaching and learning from others through mentorship and believe that the sharing of knowledge is our most noble purpose.
 
 ## Skills
 Ruby on Rails, Object Oriented Design, HTML5 & CSS3, JavaScript (AJAX, jQuery), TDD (RSpec, Capybara, Jasmine), Git, Heroku, PosgreSQL, Agile Development.
 
 ## Projects
-### [ScrallWall](http://scrallwall.co)
-[Github Repo](https://github.com/tonyta/ScrallWall)
+### [ScrallWall](http://scrallwall.co) [![GitHub-Mark](/images/GitHub-Mark-Light-32px.png)](https://github.com/tonyta/ScrallWall)
 
 Final project at Dev Bootcamp which I pitched, managed, and developed as part of a team. ScrallWall combines mapping, geolocation, user-generated content, and open city data and APIs to allow users to share and discover found art. This project entailed using a variety of technologies not taught Dev Bootcamp including Open311 APIs, PostGIS, and Mapbox.js.
 
-### [MileyIpsum](http://mileyipsum.co)
-[Github Repo](https://github.com/tonyta/mileyipsum)
-
+### [MileyIpsum](http://mileyipsum.co) [![GitHub-Mark](/images/GitHub-Mark-Light-32px.png)](https://github.com/tonyta/mileyipsum)
 Generating new Miley Cyrus lyrics from old ones using Markov chains on word-to-word relationships.
 
 ## Experience
