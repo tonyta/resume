@@ -2,6 +2,7 @@
 
 * <tonyta.tt@gmail.com>
 * <http://github.com/tonyta>
+* <http://linkedin.com/in/tonyta>
 * 980-226-6230
 
 ## Profile
@@ -23,23 +24,23 @@ Generating new Miley Cyrus lyrics from old ones using Markov chains on word-to-w
 
 ## Experience
 
-### Quality Manager -- May 2012 to January 2014
+### Quality Manager - May 2012 to January 2014
 #### Anresco Laboratories, San Francisco, CA
 Directed and oversaw quality operations for over 20 staff analysts for food and environmental testing.
 
-### Analytical Chemist -- December 2008 to May 2012
+### Analytical Chemist - December 2008 to May 2012
 #### Anresco Laboratories, San Francisco, CA
 Developed and conducted analyses of food for nutritional information and chemical contamination.
 
-### English Teacher -- August 2007 to July 2008
+### English Teacher - August 2007 to July 2008
 #### International Language Academy, Vietnam
 Taught English through a fully immersive curriculum to children and adults.
 
-### General Manager -- June 2006 to Jun 2007
+### General Manager - June 2006 to Jun 2007
 #### LAVA Restaurant Group, Charlotte, NC
 
 ## Education
 
-### Biochemistry, B.S. -- 2006
+### Biochemistry, B.S. - 2006
 #### Lehigh University, Bethlehem, PA
 
