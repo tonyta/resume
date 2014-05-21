@@ -1,4 +1,7 @@
-# Resume
+# [Resume](http://tonyta.herokuapp.com/index.html)
+## [markdown](https://github.com/tonyta/resume/blob/master/resume.md)
+
+This resume template was forked from [Nat Welch's resume project](https://github.com/icco/resume)
 
 This started as just a simple place to store a markdown format of my resume, and now it's turned into an easy way to host your resume using [sinatra][s], [github-pages][gp] or [Heroku][h].
 
