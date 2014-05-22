@@ -2,7 +2,7 @@
 
 * <tonyta.tt@gmail.com>
 * [github.com/tonyta](http://github.com/tonyta)
-* [LinkedIn](http://linkedin.com/in/tonyta) | [Facebook](http://facebook.com/tonyta) | [Twitter](http://twitter.com/tonyta])
+* [LinkedIn](http://linkedin.com/in/tonyta) | [Facebook](http://facebook.com/tonyta) | [Twitter](http://twitter.com/tonyta)
 * 980-226-6230
 
 ## Profile
