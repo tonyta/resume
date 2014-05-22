@@ -16,8 +16,7 @@ configure do
   use Sass::Plugin::Rack
 end
 
-# Render the main page.
-get '/index.html' do
+get '/' do
   rfile = settings.config['file']
   name  = settings.config['name']
   title = "#{name}'s Resume"
