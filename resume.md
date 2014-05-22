@@ -14,16 +14,22 @@ Ruby on Rails, Object Oriented Design, HTML5 & CSS3, JavaScript (AJAX, jQuery), 
 ## Projects
 ### [ScrallWall](http://scrallwall.co) [![GitHub-Mark](/images/GitHub-Mark-Light-32px.png)](https://github.com/tonyta/ScrallWall)
 
-Final project at Dev Bootcamp which I pitched, managed, and developed as part of a team. ScrallWall combines mapping, geolocation, user-generated content, and open city data and APIs to allow users to share and discover found art. This project entailed using a variety of technologies not taught Dev Bootcamp including Open311 APIs, PostGIS, and Mapbox.js.
+Final project at Dev Bootcamp which I pitched, managed, and developed as part of a team. ScrallWall combines mapping, geolocation, user-generated content, and open city data and APIs to allow users to share and discover found art. This project used a variety of technologies not taught Dev Bootcamp including Open311 APIs, PostGIS, and Mapbox.js.
 
 ### [MileyIpsum](http://mileyipsum.co) [![GitHub-Mark](/images/GitHub-Mark-Light-32px.png)](https://github.com/tonyta/mileyipsum)
 Generating new Miley Cyrus lyrics from old ones using Markov chains on word-to-word relationships.
 
 ## Experience
 
+### Web Development Student - February 2014 to April 2014
+#### Dev Bootcamp, Chicago, IL
+Completed 9-week intensive web development program. Gained hands-on experience in full-stack web development and a first-hand understanding of version control, TDD, iterative development, and user-centered design.
+
+Most importantly, I gained a deep appreciation for the non-technical qualities of a great developer: empathy, integrity, humility, the ability of expose one's own ignorance, and mentorship.
+
 ### Quality Manager - May 2012 to January 2014
 #### Anresco Laboratories, San Francisco, CA
-Directed and oversaw quality operations for over 20 staff analysts for food and environmental testing.
+Directed and oversaw quality operations for over 20 staff analysts for food and environmental testing. Ensured compliance to quality standards and FDA regulations through document development, employee training, and internal audits.
 
 ### Analytical Chemist - December 2008 to May 2012
 #### Anresco Laboratories, San Francisco, CA
@@ -33,8 +39,9 @@ Developed and conducted analyses of food for nutritional information and chemica
 #### International Language Academy, Vietnam
 Taught English through a fully immersive curriculum to children and adults.
 
-### General Manager - June 2006 to Jun 2007
+### General Manager - June 2006 to June 2007
 #### LAVA Restaurant Group, Charlotte, NC
+Managed operations and a staff of 20 for a high-volume, fast-casual 80-seat restaurant.
 
 ## Education
 
