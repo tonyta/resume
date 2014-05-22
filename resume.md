@@ -14,7 +14,7 @@ Ruby on Rails, Object Oriented Design, HTML5 & CSS3, JavaScript (AJAX, jQuery), 
 ## Projects
 ### [ScrallWall](http://scrallwall.co) [![GitHub-Mark](/images/GitHub-Mark-Light-32px.png)](https://github.com/tonyta/ScrallWall)
 
-Final project at Dev Bootcamp which I pitched, managed, and developed as part of a team. ScrallWall combines mapping, geolocation, user-generated content, and open city data and APIs to allow users to share and discover found art. This project used a variety of technologies not taught Dev Bootcamp including Open311 APIs, PostGIS, and Mapbox.js.
+Final project at Dev Bootcamp which I pitched, managed, and developed as part of a team. ScrallWall combines mapping, geolocation, user-generated content, and open city data and APIs to allow users to share and discover found art. This project used a variety of self-taught technologies outside of Dev Bootcamp's curriculum including Open311 APIs, PostGIS, and Mapbox.js.
 
 ### [MileyIpsum](http://mileyipsum.co) [![GitHub-Mark](/images/GitHub-Mark-Light-32px.png)](https://github.com/tonyta/mileyipsum)
 Generating new Miley Cyrus lyrics from old ones using Markov chains on word-to-word relationships.
