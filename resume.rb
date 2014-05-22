@@ -33,13 +33,13 @@ get '/' do
   }
 end
 
-# We do this for our static site rendering.
-get '/' do
-  redirect '/index.html'
-end
-
 # For the plain text version of our resumes
 get '/resume.txt' do
   content_type 'text/plain', :charset => 'utf-8'
   File.read(settings.config['file'])
+end
+
+# For the PDF version
+get '/resume.pdf' do
+  send_file('resume.pdf')
 end
