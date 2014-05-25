@@ -1,4 +1,4 @@
-/** Less based style sheet. @author Nat Welch */
+/** Less based style sheet. Based on template by Nat Welch. Modified by Tony Ta. */
 * { margin: 0; padding: 0; }
 
 body { color: #cccccc; line-height: 1.4em; background-color: #333333; font-family: "Open Sans", sans-serif; font-size: 1em; }
