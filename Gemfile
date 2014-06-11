@@ -7,7 +7,7 @@ gem 'redcarpet'
 gem 'sass'
 gem 'sinatra'
 gem 'thin'
-gem 'tilt'
+gem 'tilt', '~> 1.4.1'
 
 group :development do
   gem 'shotgun'
