@@ -9,9 +9,13 @@
 Web developer with a background in science and chemistry. I love expanding my knowledge through experimentation and discovery. I enjoy teaching and learning from others through mentorship and believe that the sharing of knowledge is our most noble purpose.
 
 ## Skills
-Ruby on Rails, Object Oriented Design, HTML5 & CSS3, JavaScript (AJAX, jQuery), TDD (RSpec, Capybara, Jasmine), Git, Heroku, PosgreSQL, Agile Development.
+Ruby on Rails, Object Oriented Design, HTML5 & CSS3, JavaScript (AJAX, jQuery), TDD (RSpec, Capybara, Jasmine), Git, Heroku, PostgreSQL, Agile Development.
 
 ## Projects
+### [VFYW Map](http://107.170.158.206/) [![GitHub-Mark](/images/GitHub-Mark-Light-32px.png)](https://github.com/tonyta/VFYW)
+
+A cartographic representation of "The View From Your Window", a regular photo feature on [Andrew Sullivan's The Dish](http://dish.andrewsullivan.com/). Each post is parsed, geotagged, and organized by date posted and time of day, then displayed on a map to be explored.
+
 ### [ScrallWall](http://scrallwall.co) [![GitHub-Mark](/images/GitHub-Mark-Light-32px.png)](https://github.com/tonyta/ScrallWall)
 
 Final project at Dev Bootcamp which I pitched, managed, and developed as part of a team. ScrallWall combines mapping, geolocation, user-generated content, and open city data and APIs to allow users to share and discover found art. This project used a variety of self-taught technologies outside of Dev Bootcamp's curriculum including Open311 APIs, PostGIS, and Mapbox.js.
