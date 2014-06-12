@@ -41,5 +41,5 @@ end
 
 # For the PDF version
 get '/resume.pdf' do
-  send_file('resume.pdf')
+  send_file('tonyta-resume.pdf')
 end
